@@ -61,3 +61,40 @@ different recurrent neural networks.
    pip install -r requirements.txt
 
 3. Run the notebook or Python script
+
+## 🎯 Objective
+To compare different recurrent neural network models for temperature
+forecasting and identify the most effective architecture.
+
+## 📄 License
+This project is for academic and research purposes
+
+
+Click **Commit changes**
+
+---
+
+# 📁 Step 3: Upload Your Project Files
+
+Click **Add file → Upload files**
+
+Upload:
+- `weather_forecasting.py` (your main code)
+- `Akola.xlsx` (dataset)
+- `requirements.txt`
+
+---
+
+# 📦 Step 4: Create `requirements.txt`
+
+Create a new file named **requirements.txt** and paste:
+
+```txt
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+openpyxl
+windrose
