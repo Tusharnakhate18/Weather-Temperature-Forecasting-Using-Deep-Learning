@@ -60,3 +60,4 @@ different recurrent neural networks.
    ```bash
    pip install -r requirements.txt
 
+3. Run the notebook or Python script
