@@ -87,4 +87,29 @@ Upload:
 
 ---
 
+# 📦 Step 4: Create `requirements.txt`
+
+Create a new file named **requirements.txt** and paste:
+
+```txt
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+openpyxl
+windrose
+
 ---
+
+# 💻 Step 5: (Optional) Upload Using Git Command Line
+If you prefer terminal:
+git clone https://github.com/your-username/Weather-Temperature-Forecasting.git
+cd Weather-Temperature-Forecasting
+git add .
+git commit -m "Initial commit - weather forecasting project"
+git push origin main
+
+---
+
