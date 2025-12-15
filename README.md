@@ -1,2 +1,5 @@
 # Weather-Temperature-Forecasting-Using-Deep-Learning
-This repository presents a time-series forecasting framework for predicting temperature using deep learning models, including LSTM, SimpleRNN, and GRU networks. The study is based on historical weather data and focuses on comparing the performance of different recurrent neural network architectures for short-term temperature prediction.
+This project focuses on predicting temperature using deep learning-based
+time series models such as **LSTM**, **SimpleRNN**, and **GRU**.
+Historical weather data is analyzed to compare the performance of
+different recurrent neural networks.
