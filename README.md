@@ -87,18 +87,4 @@ Upload:
 
 ---
 
-# 📦 Step 4: Create `requirements.txt`
-
-Create a new file named **requirements.txt** and paste:
-
-```txt
-numpy
-pandas
-matplotlib
-seaborn
-scikit-learn
-tensorflow
-openpyxl
-windrose
-
 ---
