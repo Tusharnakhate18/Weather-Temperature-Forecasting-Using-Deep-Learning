@@ -102,5 +102,3 @@ openpyxl
 windrose
 
 ---
-
-## 💻 Step 5: (Optional) Upload Using Git Command Line
