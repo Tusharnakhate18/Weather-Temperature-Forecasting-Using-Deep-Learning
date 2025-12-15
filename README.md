@@ -62,6 +62,8 @@ different recurrent neural networks.
 
 3. Run the notebook or Python script
 
+---   
+
 ## 🎯 Objective
 To compare different recurrent neural network models for temperature
 forecasting and identify the most effective architecture.
@@ -98,3 +100,7 @@ scikit-learn
 tensorflow
 openpyxl
 windrose
+
+---
+
+## 💻 Step 5: (Optional) Upload Using Git Command Line
