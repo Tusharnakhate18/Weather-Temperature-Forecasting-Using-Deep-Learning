@@ -95,3 +95,25 @@ Upload:
 - git add .
 - git commit -m "Initial commit - weather forecasting project"
 - git push origin main
+
+---
+
+## ✅ Conclusion
+
+In this project, temperature forecasting was performed using deep learning
+time-series models, including LSTM, SimpleRNN, and GRU. Historical weather
+data was preprocessed, analyzed, and used to train the models for predicting
+future temperature values.
+
+The experimental results show that **LSTM and GRU models outperform the
+SimpleRNN model**, as they are better at capturing long-term temporal
+dependencies in weather data. Among all models, the LSTM/GRU achieved
+lower prediction error and higher R² score, indicating better accuracy
+and stability.
+
+This study demonstrates that recurrent neural networks are effective tools
+for weather forecasting and can be extended to multivariate inputs and
+longer prediction horizons. The proposed approach can be useful for
+applications in agriculture, climate analysis, and environmental monitoring.
+
+---
